@@ -1,0 +1,17 @@
+#div1{
+
+	text-align: center;
+	color: white;
+	font-size: 20px;
+    font-family: "Baloo Bhaina";
+    line-height: 100px;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    padding: 20px;
+    border-radius: 150px;
+    border:5px solid #AD6A6C;
+    top:200px;
+    left: 500px;
+    background: #EB5E55;
+}
